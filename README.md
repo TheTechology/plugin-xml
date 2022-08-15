@@ -1,4 +1,4 @@
-<h1 align="center">Prettier for XML</h1>
+<h1 align="center">Prettier for XML</h1>,
 
 <p align="center">
   <a href="https://gitter.im/jlongster/prettier">
